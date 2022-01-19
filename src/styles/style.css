@@ -1,0 +1,38 @@
+/*.mycontainer {
+  width: 300px;
+  height: 300px;
+  text-align: "center";
+  padding: 20px;
+}
+.contenant {
+  position: relative;
+  text-align: center;
+  color: rgb(3, 5, 22);
+}
+
+.texte_center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-30%, -30%);
+}
+.text-title {
+  text-align: center;
+}*/
+.container {
+  background-color: rgb(245, 233, 216);
+  width: 100%;
+  height: auto;
+}
+/*.text-rating {
+  color: rgb(19, 74, 226);
+}*/
+
+.button-style {
+  padding: 50px;
+  margin-top: 40px;
+}
+
+.textStyle {
+  text-align: center;
+}
